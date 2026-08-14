@@ -1,0 +1,11 @@
+numpy
+scipy
+rasterio
+rioxarray
+xarray
+h5py
+netCDF4
+torch
+torchvision
+matplotlib
+tqdm
